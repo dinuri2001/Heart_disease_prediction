@@ -1,7 +1,7 @@
  Heart Disease Risk Predictor
 
 This project predicts the risk of heart disease using patient data. Built with Python, Machine Learning, and Streamlit for the frontend.
-
+Data set from Kaggle
 📊 Features
 
 - Exploratory Data Analysis (EDA) with seaborn and matplotlib
