@@ -50,6 +50,12 @@ This project predicts the risk of heart disease using patient data. Built with P
 [Uploading Screen Recording 2025-06-26 at 15.46.25.zip…]()
 [Uploading Screen Recording 2025-06-26 at 15.46.25.zip…]()
 [Uploading Screen Recording 2025-06-26 at 15.46.25.zip…]()
+👤 Author
+Dinuri Gamage
+Data Science Undergraduate at NSBM Green University
+🌐 LinkedIn www.linkedin.com/in/dinuri- gamage
+📧 gamagedinuri@gmail.com.com
+
 
 
 
