@@ -55,8 +55,11 @@ Data set from Kaggle
 
 👤 Author
 Dinuri Gamage
+
 Data Science Undergraduate at NSBM Green University
-🌐 LinkedIn www.linkedin.com/in/dinuri- gamage
+
+🌐 LinkedIn www.linkedin.com/in/dinuri-gamage
+
 📧 gamagedinuri@gmail.com.com
 
 
