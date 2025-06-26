@@ -42,7 +42,7 @@ Data set from Kaggle
 
 `app.py` - Streamlit frontend file 
  `heart_disease_model.pkl` - Trained XGBoost model 
- `EDA_notebook.ipynb` - Jupyter notebook for analysis and model training 
+ `app.ipynb` - Jupyter notebook for analysis and model training 
  `requirements.txt` - Python dependencies 
  `README.md` - Project description (this file) 
 
@@ -50,6 +50,9 @@ Data set from Kaggle
 [Uploading Screen Recording 2025-06-26 at 15.46.25.zip…]()
 [Uploading Screen Recording 2025-06-26 at 15.46.25.zip…]()
 [Uploading Screen Recording 2025-06-26 at 15.46.25.zip…]()
+
+
+
 👤 Author
 Dinuri Gamage
 Data Science Undergraduate at NSBM Green University
